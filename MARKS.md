@@ -11,14 +11,13 @@ The following is a breakdown of how the 100 marks (including 10 bonus marks) wil
 ## Backend Implementation (20 marks)
 
 - API Integration (10 Marks): Efficient and correct use of the Rick and Morty API to fetch data in the backend.
-- Data Handling and Performance (10 Marks): Effective handling of data, including error handling, data formatting, and performance optimizations.
+- Data Handling and Performance (10 Marks): Effective handling of data, data formatting (sending only required data fields to frontend).
 
 ## Code Quality and Best Practices (20 marks)
 
-- Code Organization (5 Marks): Well-structured and organized codebase.
+- Code Organization (10 Marks): Well-structured and organized codebase.
 - Coding Standards (5 Marks): Adherence to common coding standards and best practices.
 - Documentation (5 Marks): Comprehensive README.md with clear instructions and documentation.
-- Scalability and Maintainability (5 Marks): Code that is easy to scale and maintain.
 
 ## Additional Criteria (20 marks)
 

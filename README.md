@@ -33,7 +33,7 @@ You can find specific acceptance criteria below.
 5. You can use other external libraries to speed up your work.
 6. You can use a styling framework (Material UI, Bootstrap, Tailwind, or other) for quick and consistent styling.
 7. If you're not able to implement all parts of the task, partial submissions are welcome.
-8. Provide the GitHub repository URL as a PRIVATE Git repository (also provide access) to prithvi@smartdino.tech and cc roshan@smartdino.tech, pankajyadav.code@gmail.com
+8. Provide the GitHub repository URL as a PRIVATE Git repository (also provide access) to prithvi@smartdino.tech and cc arun@smartdino.tech, hello@pankajyadav.code
 9. The code should be properly organized and follow best practices for maintainability and scalability.
 
 ## Evaluation rules
