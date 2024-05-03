@@ -16,7 +16,7 @@ You can find specific acceptance criteria below.
 ### Acceptance Criteria
 
 1. A component for displaying the list of characters is created and it makes a GET request to the Rick and Morty API (in Node.js backend) to retrieve a list of characters to (React.js) frontend.
-2. The list of characters is displayed, showing each character's name, image, and species as shown in above sample character card.
+2. The list of characters is displayed, showing each character's name, image, species etc. as shown in above sample character card.
 3. A detail component is created for viewing more information about a character, which is accessible by clicking on a character in the list.
 4. The detail component makes a GET request to the Rick and Morty API (in Node.js backend) for the specific character based on its id, passed in as a route parameter.
 5. The detail component displays the character's name, image, species, status, origin, and location.
